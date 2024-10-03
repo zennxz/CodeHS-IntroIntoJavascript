@@ -1,3 +1,4 @@
+(note answers may not be in the same order as your test)
 1. False
 2. 5
 3. Nothing will print
@@ -23,3 +24,21 @@ circle.setPosition(x, y);
       5
       6
       5
+16. false
+17. a (b or c)
+18. ambOneAvail OR (inZone OR ambTwoAvail)
+19. IF ((NOT rainy) OR (NOT tooCold))
+{
+    DISPLAY("It's a good beach day")
+}
+20.Randomizer.nextInt(1, 99)
+21.10
+22.The program does not work as intended but rather it displays the number factorial.
+23. The program correctly displays the count of odd numbers between 1 and number
+24. The result will be false whenever the initial value of value is even
+25. REPEAT 2 TIMES
+{
+    MOVE_FORWARD ()
+    MOVE_FORWARD ()
+    ROTATE_LEFT ()
+}
