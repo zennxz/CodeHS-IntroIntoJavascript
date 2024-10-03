@@ -1,7 +1,13 @@
 function start(){
-    printTriangleArea(5,10);
+
+   triangleArea(5,4);
+
 }
-function printTriangleArea(base,height){
-    var area = 1/2 * base * height;
-    println(area);
+
+function triangleArea(BASE, HEIGHT){
+
+   var result=1/2 * BASE * HEIGHT
+
+   println(result);
+
 }
